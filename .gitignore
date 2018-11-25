@@ -22,7 +22,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-notebooks/Untitled
+notebooks/Untitled Folder
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
